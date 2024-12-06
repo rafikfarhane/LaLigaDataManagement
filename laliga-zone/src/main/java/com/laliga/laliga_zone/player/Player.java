@@ -66,5 +66,123 @@ public class Player {
         this.name = name;
     }
 
+    public String getName() {
+        return name;
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getNation() {
+        return nation;
+    }
+
+    public void setNation(String nation) {
+        this.nation = nation;
+    }
+
+    public String getPosition() {
+        return position;
+    }
+
+    public void setPosition(String position) {
+        this.position = position;
+    }
+
+    public Integer getAge() {
+        return age;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
+    }
+
+    public Integer getMp() {
+        return mp;
+    }
+
+    public void setMp(Integer mp) {
+        this.mp = mp;
+    }
+
+    public Integer getStarts() {
+        return starts;
+    }
+
+    public void setStarts(Integer starts) {
+        this.starts = starts;
+    }
+
+    public Double getMin() {
+        return min;
+    }
+
+    public void setMin(Double min) {
+        this.min = min;
+    }
+
+    public Double getGls() {
+        return gls;
+    }
+
+    public void setGls(Double gls) {
+        this.gls = gls;
+    }
+
+    public Double getAst() {
+        return ast;
+    }
+
+    public void setAst(Double ast) {
+        this.ast = ast;
+    }
+
+    public Double getPgls() {
+        return pgls;
+    }
+
+    public void setPgls(Double pgls) {
+        this.pgls = pgls;
+    }
+
+    public Double getCrdy() {
+        return crdy;
+    }
+
+    public void setCrdy(Double crdy) {
+        this.crdy = crdy;
+    }
+
+    public Double getCrdr() {
+        return crdr;
+    }
+
+    public void setCrdr(Double crdr) {
+        this.crdr = crdr;
+    }
+
+    public Double getXg() {
+        return xg;
+    }
+
+    public void setXg(Double xg) {
+        this.xg = xg;
+    }
+
+    public Double getXa() {
+        return xa;
+    }
+
+    public void setXa(Double xa) {
+        this.xa = xa;
+    }
+
+    public Double getTeam() {
+        return team;
+    }
+
+    public void setTeam(Double team) {
+        this.team = team;
+    }
 }
