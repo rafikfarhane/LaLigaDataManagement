@@ -1,0 +1,665 @@
+Player,Nation,Pos,Age,MP,Starts,Min,Gls,Ast,PK,CrdY,CrdR,xG,xAG,Team
+Raphinha,br BRA,"FW,MF",27-358,16.0,15,1347.0,11.0,6.0,1.0,1.0,0.0,10.5,7.6,Barcelona
+Iñigo Martínez,es ESP,DF,33-203,15.0,15,1330.0,0.0,1.0,0.0,3.0,0.0,0.3,1.6,Barcelona
+Pau Cubarsí,es ESP,DF,17-319,16.0,15,1291.0,0.0,1.0,0.0,3.0,0.0,0.7,0.9,Barcelona
+Robert Lewandowski,pl POL,FW,36-107,15.0,15,1248.0,15.0,2.0,2.0,1.0,0.0,14.1,2.1,Barcelona
+Jules Koundé,fr FRA,DF,26-024,16.0,14,1255.0,1.0,2.0,0.0,2.0,0.0,0.4,1.8,Barcelona
+Pedri,es ESP,MF,22-011,16.0,14,1172.0,3.0,2.0,0.0,2.0,0.0,1.3,2.1,Barcelona
+Lamine Yamal,es ESP,FW,17-146,14.0,12,1110.0,5.0,8.0,0.0,1.0,0.0,4.4,6.1,Barcelona
+Alejandro Balde,es ESP,DF,21-049,14.0,12,1021.0,0.0,2.0,0.0,0.0,0.0,0.3,1.3,Barcelona
+Marc Casado,es ESP,MF,21-083,13.0,11,934.0,0.0,3.0,0.0,4.0,1.0,0.9,1.3,Barcelona
+Iñaki Peña,es ESP,GK,25-279,11.0,10,946.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Barcelona
+Marc-André ter Stegen,de GER,GK,32-220,6.0,6,494.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Ferrán Torres,es ESP,"FW,MF",24-281,10.0,6,434.0,2.0,2.0,0.0,0.0,1.0,1.6,0.4,Barcelona
+Dani Olmo,es ESP,"MF,FW",26-213,8.0,5,472.0,5.0,0.0,0.0,0.0,0.0,2.2,1.1,Barcelona
+Gerard Martín,es ESP,DF,22-340,11.0,4,390.0,0.0,1.0,0.0,2.0,0.0,0.0,0.4,Barcelona
+Pablo Torre,es ESP,"MF,FW",21-247,7.0,4,248.0,3.0,1.0,0.0,0.0,0.0,0.3,0.5,Barcelona
+Eric García,es ESP,MF,23-332,9.0,3,452.0,0.0,1.0,0.0,0.0,0.0,0.6,0.4,Barcelona
+Fermin López,es ESP,"MF,FW",21-209,10.0,3,308.0,0.0,0.0,0.0,2.0,0.0,0.7,0.4,Barcelona
+Marc Bernal,es ESP,MF,17-194,3.0,3,242.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Barcelona
+Héctor Fort,es ESP,DF,18-126,8.0,2,272.0,0.0,0.0,0.0,1.0,0.0,0.1,0.6,Barcelona
+Sergi Dominguez,es ESP,DF,19-249,3.0,2,172.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Barcelona
+Gavi,es ESP,MF,20-123,7.0,2,164.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,Barcelona
+Frenkie de Jong,nl NED,MF,27-208,7.0,1,204.0,1.0,1.0,0.0,0.0,0.0,0.2,1.2,Barcelona
+Pau Victor Delgado,es ESP,FW,23-010,11.0,1,166.0,2.0,1.0,0.0,2.0,0.0,1.8,0.4,Barcelona
+Ansu Fati,es ESP,FW,22-036,4.0,1,127.0,0.0,0.0,0.0,1.0,0.0,0.6,0.1,Barcelona
+Andreas Christensen,dk DEN,DF,28-240,1.0,0,27.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Barcelona
+Ander Astralaga,es ESP,GK,20-278,0.0,0,,,,,,,,,Barcelona
+Álvaro Cortés,es ESP,DF,19-203,0.0,0,,,,,,,,,Barcelona
+Andres Cuenca,es ESP,DF,17-178,0.0,0,,,,,,,,,Barcelona
+Noah Darvich,de GER,MF,18-072,0.0,0,,,,,,,,,Barcelona
+Guillermo Fernandez,es ESP,MF,16-171,0.0,0,,,,,,,,,Barcelona
+Toni Fernández,es ESP,MF,16-174,0.0,0,,,,,,,,,Barcelona
+Diego Kochen,us USA,GK,18-262,0.0,0,,,,,,,,,Barcelona
+Wojciech Szczęsny,pl POL,GK,34-232,0.0,0,,,,,,,,,Barcelona
+Álex Valle,es ESP,DF,20-225,0.0,0,,,,,,,,,Barcelona
+Áron Yaakobishvili,hu HUN,GK,18-275,0.0,0,,,,,,,,,Barcelona
+Squad Total,,,24.9,16.0,176,1440.0,48.0,34.0,3.0,31.0,2.0,40.3,30.8,Barcelona
+Opponent Total,,,27.2,16.0,176,1440.0,17.0,13.0,2.0,46.0,0.0,19.2,15.2,Barcelona
+Federico Valverde,uy URU,"MF,DF",26-137,,15,1300.0,3.0,2.0,0.0,2.0,0.0,0.7,1.4,Real-Madrid
+Antonio Rüdiger,de GER,DF,31-278,,14,1267.0,0.0,0.0,0.0,1.0,0.0,1.0,0.1,Real-Madrid
+Kylian Mbappé,fr FRA,FW,25-352,,14,1199.0,8.0,1.0,3.0,1.0,0.0,11.3,1.6,Real-Madrid
+Thibaut Courtois,be BEL,GK,32-209,,12,1080.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real-Madrid
+Vinicius Júnior,br BRA,FW,24-147,,12,1069.0,8.0,5.0,2.0,4.0,0.0,5.5,4.7,Real-Madrid
+Éder Militão,br BRA,DF,26-323,,11,938.0,1.0,1.0,0.0,2.0,0.0,0.6,0.5,Real-Madrid
+Jude Bellingham,eng ENG,MF,21-160,,11,915.0,4.0,3.0,1.0,2.0,0.0,3.1,1.1,Real-Madrid
+Aurélien Tchouaméni,fr FRA,"MF,DF",24-314,,11,914.0,0.0,0.0,0.0,1.0,0.0,0.5,0.3,Real-Madrid
+Rodrygo,br BRA,FW,23-332,,9,817.0,3.0,1.0,0.0,0.0,0.0,1.3,1.0,Real-Madrid
+Ferland Mendy,fr FRA,DF,29-181,,8,684.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Real-Madrid
+Fran Garcia,es ESP,DF,25-114,,7,667.0,0.0,0.0,0.0,0.0,0.0,0.5,0.2,Real-Madrid
+Lucas Vázquez,es ESP,DF,33-158,,7,623.0,1.0,1.0,0.0,2.0,0.0,0.2,0.8,Real-Madrid
+Dani Carvajal,es ESP,DF,32-330,,7,609.0,1.0,0.0,0.0,1.0,0.0,1.3,0.2,Real-Madrid
+Luka Modrić,hr CRO,MF,39-088,,5,649.0,0.0,2.0,0.0,3.0,0.0,0.3,3.3,Real-Madrid
+Eduardo Camavinga,fr FRA,MF,22-026,,5,388.0,0.0,1.0,0.0,0.0,0.0,0.1,0.1,Real-Madrid
+Arda Güler,tr TUR,"MF,FW",19-285,,4,389.0,0.0,1.0,0.0,1.0,0.0,1.3,1.4,Real-Madrid
+Dani Ceballos,es ESP,MF,28-121,,4,316.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Real-Madrid
+Brahim Díaz,ma MAR,"FW,MF",25-125,,3,344.0,1.0,2.0,0.0,0.0,0.0,1.1,1.8,Real-Madrid
+Raúl Asencio,es ESP,DF,21-297,,3,331.0,0.0,1.0,0.0,0.0,0.0,0.0,0.4,Real-Madrid
+Andriy Lunin,ua UKR,GK,25-299,,3,270.0,0.0,1.0,0.0,0.0,0.0,0.0,0.9,Real-Madrid
+Endrick,br BRA,FW,18-138,,0,69.0,1.0,0.0,0.0,1.0,0.0,0.6,0.0,Real-Madrid
+Jesús Vallejo,es ESP,DF,27-336,,0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real-Madrid
+Diego Aguado,es ESP,DF,17-303,,0,,,,,,,,,Real-Madrid
+Lorenzo Aguado,es ESP,DF,22-078,,0,,,,,,,,,Real-Madrid
+Chema,es ESP,MF,19-225,,0,,,,,,,,,Real-Madrid
+Fran,es ESP,GK,19-165,,0,,,,,,,,,Real-Madrid
+Gonzalo García,es ESP,MF,20-257,,0,,,,,,,,,Real-Madrid
+David Jiménez,es ESP,DF,20-267,,0,,,,,,,,,Real-Madrid
+Sergio Mestre,es ESP,GK,19-297,,0,,,,,,,,,Real-Madrid
+Jacobo Ramón,es ESP,DF,19-335,,0,,,,,,,,,Real-Madrid
+Squad Total,,,27.4,,165,1350.0,31.0,22.0,6.0,23.0,1.0,28.8,19.8,Real-Madrid
+Opponent Total,,,27.3,,165,1350.0,12.0,10.0,0.0,33.0,1.0,14.2,11.4,Real-Madrid
+Jan Oblak,si SVN,GK,31-334,14.0,14,1260.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atletico-Madrid
+Antoine Griezmann,fr FRA,"FW,MF",33-260,15.0,13,1104.0,5.0,4.0,1.0,1.0,0.0,3.4,3.7,Atletico-Madrid
+Koke,es ESP,MF,32-333,15.0,12,1062.0,1.0,0.0,0.0,3.0,0.0,1.0,1.0,Atletico-Madrid
+José María Giménez,uy URU,DF,29-321,13.0,10,1018.0,0.0,0.0,0.0,1.0,0.0,0.3,0.0,Atletico-Madrid
+Julián Álvarez,ar ARG,"FW,MF",24-310,15.0,10,855.0,5.0,2.0,0.0,2.0,0.0,3.4,1.4,Atletico-Madrid
+Pablo Barrios,es ESP,MF,21-174,10.0,9,798.0,0.0,1.0,0.0,1.0,0.0,0.4,1.0,Atletico-Madrid
+Marcos Llorente,es ESP,"DF,MF",29-311,10.0,9,764.0,2.0,2.0,0.0,0.0,1.0,0.2,2.4,Atletico-Madrid
+Nahuel Molina,ar ARG,DF,26-244,10.0,9,705.0,0.0,1.0,0.0,0.0,0.0,0.4,0.6,Atletico-Madrid
+Samuel Lino,br BRA,"MF,DF",24-349,12.0,9,651.0,0.0,1.0,0.0,1.0,0.0,3.0,1.4,Atletico-Madrid
+Conor Gallagher,eng ENG,MF,24-304,11.0,8,689.0,2.0,0.0,0.0,1.0,0.0,1.1,0.1,Atletico-Madrid
+Alexander Sørloth,no NOR,FW,29-001,15.0,7,690.0,6.0,2.0,0.0,0.0,0.0,5.5,1.3,Atletico-Madrid
+Reinildo Mandava,mz MOZ,DF,30-320,13.0,7,647.0,0.0,0.0,0.0,3.0,0.0,0.1,0.1,Atletico-Madrid
+Robin Le Normand,es ESP,DF,28-025,7.0,7,630.0,0.0,0.0,0.0,2.0,0.0,0.3,0.1,Atletico-Madrid
+Axel Witsel,be BEL,DF,35-329,9.0,7,620.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5,Atletico-Madrid
+Rodrigo De Paul,ar ARG,MF,30-196,14.0,6,651.0,1.0,3.0,0.0,3.0,0.0,0.7,2.3,Atletico-Madrid
+Clément Lenglet,fr FRA,DF,29-172,6.0,6,485.0,1.0,0.0,0.0,4.0,0.0,1.3,0.1,Atletico-Madrid
+César Azpilicueta,es ESP,DF,35-100,6.0,6,480.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,Atletico-Madrid
+Javi Galán,es ESP,DF,30-017,7.0,5,406.0,0.0,2.0,0.0,3.0,0.0,0.0,1.3,Atletico-Madrid
+Giuliano Simeone,ar ARG,"MF,DF",21-354,10.0,4,426.0,1.0,2.0,0.0,2.0,0.0,0.3,0.8,Atletico-Madrid
+Rodrigo Riquelme,es ESP,"DF,MF",24-248,10.0,4,404.0,0.0,0.0,0.0,0.0,0.0,0.7,0.5,Atletico-Madrid
+Ángel Correa,ar ARG,"FW,MF",29-272,14.0,2,407.0,2.0,1.0,0.0,2.0,0.0,3.2,1.1,Atletico-Madrid
+Juan Musso,ar ARG,GK,30-214,1.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atletico-Madrid
+Thomas Lemar,fr FRA,MF,29-024,1.0,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atletico-Madrid
+Aitor Gismera,es ESP,MF,20-289,0.0,0,,,,,,,,,Atletico-Madrid
+Antonio Gomis,es ESP,GK,21-200,0.0,0,,,,,,,,,Atletico-Madrid
+Alejandro Iturbe,es ESP,GK,21-095,0.0,0,,,,,,,,,Atletico-Madrid
+Ilias Kostis,gr GRE,DF,21-283,0.0,0,,,,,,,,,Atletico-Madrid
+Horaţiu Moldovan,ro ROU,GK,26-321,0.0,0,,,,,,,,,Atletico-Madrid
+Javier Serrano,es ESP,MF,21-325,0.0,0,,,,,,,,,Atletico-Madrid
+Gerónimo Spina,ar ARG,DF,19-301,0.0,0,,,,,,,,,Atletico-Madrid
+Arthur Vermeeren,be BEL,MF,19-303,0.0,0,,,,,,,,,Atletico-Madrid
+Squad Total,,,29.2,15.0,165,1350.0,26.0,22.0,1.0,29.0,1.0,25.2,19.7,Atletico-Madrid
+Opponent Total,,,27.5,15.0,165,1350.0,6.0,5.0,1.0,24.0,0.0,11.8,8.8,Atletico-Madrid
+Iñaki Williams,gh GHA,FW,30-174,15.0,14,1203.0,3.0,4.0,0.0,0.0,0.0,3.5,4.2,Athletic-Club
+Julen Agirrezabala,es ESP,GK,23-346,13.0,13,1116.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Athletic-Club
+Nico Williams,es ESP,FW,22-147,14.0,12,1043.0,1.0,3.0,0.0,1.0,0.0,2.0,2.3,Athletic-Club
+Daniel Vivian,es ESP,DF,25-144,13.0,11,1045.0,2.0,0.0,0.0,1.0,0.0,0.8,0.0,Athletic-Club
+Oihan Sancet,es ESP,MF,24-225,13.0,11,842.0,7.0,0.0,1.0,1.0,0.0,4.7,0.9,Athletic-Club
+Yuri Berchiche,es ESP,DF,34-300,13.0,10,912.0,0.0,0.0,0.0,2.0,0.0,0.3,0.5,Athletic-Club
+Álex Berenguer,es ESP,"FW,MF",29-155,15.0,10,872.0,3.0,4.0,0.0,2.0,0.0,3.8,2.6,Athletic-Club
+Óscar de Marcos,es ESP,DF,35-236,12.0,9,820.0,0.0,4.0,0.0,0.0,0.0,0.0,1.3,Athletic-Club
+Yeray Álvarez,es ESP,DF,29-317,9.0,9,810.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Athletic-Club
+Gorka Guruzeta,es ESP,FW,28-085,15.0,9,791.0,4.0,2.0,0.0,1.0,0.0,2.1,0.5,Athletic-Club
+Mikel Jauregizar,es ESP,MF,21-024,13.0,9,788.0,1.0,0.0,0.0,3.0,1.0,0.3,0.4,Athletic-Club
+Aitor Paredes,es ESP,DF,24-221,9.0,9,754.0,1.0,0.0,0.0,4.0,1.0,1.1,0.0,Athletic-Club
+Beñat Prados,es ESP,MF,23-302,13.0,9,707.0,1.0,0.0,0.0,5.0,0.0,0.6,0.2,Athletic-Club
+Iñigo Ruiz de Galarreta,es ESP,MF,31-122,12.0,8,657.0,0.0,1.0,0.0,3.0,0.0,0.1,1.2,Athletic-Club
+Adama Boiro,es ESP,DF,22-167,6.0,5,420.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Athletic-Club
+Álvaro djaló,es ESP,FW,25-112,11.0,4,432.0,1.0,0.0,0.0,0.0,0.0,0.8,0.7,Athletic-Club
+Iñigo Lekue,es ESP,DF,31-216,7.0,4,373.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Athletic-Club
+Mikel Vesga,es ESP,MF,31-199,9.0,4,373.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,Athletic-Club
+Andoni Gorosabel,es ESP,DF,28-124,6.0,4,355.0,0.0,1.0,0.0,1.0,0.0,0.3,0.6,Athletic-Club
+Unai Gómez,es ESP,MF,21-195,15.0,3,429.0,0.0,1.0,0.0,1.0,0.0,0.5,0.2,Athletic-Club
+Alex Padilla,es ESP,GK,21-096,5.0,3,321.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Athletic-Club
+Unai Núñez,es ESP,DF,27-311,3.0,3,270.0,0.0,0.0,0.0,1.0,0.0,0.2,0.0,Athletic-Club
+Ander Herrera,es ESP,MF,35-114,8.0,2,273.0,0.0,0.0,0.0,2.0,0.0,1.7,0.1,Athletic-Club
+Nicolás Serrano,es ESP,FW,21-276,2.0,1,97.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Athletic-Club
+Javi Martón,es ESP,"FW,MF",25-214,3.0,0,53.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Athletic-Club
+Peio Canales,es ESP,MF,19-324,1.0,0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Athletic-Club
+Adu Ares,es ESP,FW,23-055,1.0,0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Athletic-Club
+Unai Eguíluz,es ESP,DF,22-262,0.0,0,,,,,,,,,Athletic-Club
+Oier Gastesi,es ESP,GK,21-037,0.0,0,,,,,,,,,Athletic-Club
+Unai Simón,es ESP,GK,27-178,0.0,0,,,,,,,,,Athletic-Club
+Squad Total,,,27.3,16.0,176,1440.0,24.0,20.0,1.0,34.0,3.0,22.7,15.9,Athletic-Club
+Opponent Total,,,27.1,16.0,176,1440.0,14.0,6.0,2.0,44.0,1.0,15.8,9.4,Athletic-Club
+Diego Conde,es ESP,GK,26-039,,14,1260.0,0.0,1.0,0.0,1.0,0.0,0.0,0.2,Villarreal
+Sergi Cardona,es ESP,DF,25-151,,14,1232.0,1.0,1.0,0.0,5.0,0.0,1.9,1.8,Villarreal
+Kiko Femenía,es ESP,DF,33-308,,13,1103.0,0.0,1.0,0.0,4.0,0.0,0.0,0.5,Villarreal
+Daniel Parejo,es ESP,MF,35-234,,12,1014.0,2.0,0.0,1.0,5.0,0.0,2.0,0.3,Villarreal
+Alex Baena,es ESP,"MF,FW",23-139,,12,1011.0,3.0,5.0,0.0,4.0,0.0,3.2,4.1,Villarreal
+Santi Comesaña,es ESP,MF,28-062,,12,1011.0,2.0,2.0,0.0,3.0,0.0,0.9,1.0,Villarreal
+Raúl Albiol,es ESP,DF,39-093,,11,918.0,0.0,0.0,0.0,5.0,0.0,0.1,0.0,Villarreal
+Logan Costa,cv CPV,DF,23-249,,10,916.0,1.0,0.0,0.0,1.0,0.0,0.3,0.0,Villarreal
+Thierno Barry,fr FRA,FW,22-046,,9,874.0,4.0,2.0,0.0,1.0,0.0,5.3,1.0,Villarreal
+Pape Gueye,sn SEN,MF,25-317,,8,733.0,0.0,0.0,0.0,3.0,1.0,1.2,0.5,Villarreal
+Ilias Akhomach,ma MAR,"MF,FW",20-234,,7,584.0,1.0,0.0,0.0,1.0,0.0,0.6,1.0,Villarreal
+Nicolas Pépé,ci CIV,"FW,MF",29-191,,6,565.0,1.0,2.0,0.0,1.0,0.0,2.0,0.7,Villarreal
+Yeremi Pino,es ESP,MF,22-047,,6,548.0,0.0,3.0,0.0,2.0,0.0,1.1,2.8,Villarreal
+Eric Bailly,ci CIV,DF,30-238,,6,534.0,0.0,0.0,0.0,2.0,0.0,0.3,0.0,Villarreal
+Ayoze Pérez,es ESP,FW,31-130,,5,517.0,7.0,0.0,0.0,3.0,0.0,3.0,0.9,Villarreal
+Arnaut Danjuma,nl NED,FW,27-310,,3,200.0,2.0,0.0,0.0,1.0,0.0,0.8,0.0,Villarreal
+Gerard Moreno,es ESP,FW,32-243,,2,179.0,1.0,1.0,1.0,0.0,0.0,1.4,1.6,Villarreal
+Pau Navarro,es ESP,DF,19-225,,1,220.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Villarreal
+Ramón Terrats,es ESP,"MF,FW",24-049,,1,126.0,0.0,0.0,0.0,1.0,0.0,0.1,0.3,Villarreal
+Denis Suárez,es ESP,"MF,FW",30-335,,1,115.0,0.0,0.0,0.0,0.0,0.0,0.5,0.1,Villarreal
+Willy Kambwala,fr FRA,DF,20-103,,1,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Villarreal
+Juan Bernat,es ESP,"DF,MF",31-280,,0,49.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,Villarreal
+Pau Cabanes,es ESP,"MF,FW",19-293,,0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Villarreal
+Iker Álvarez,ad AND,GK,23-134,,0,,,,,,,,,Villarreal
+Alassane Diatta,sn SEN,MF,19-206,,0,,,,,,,,,Villarreal
+Antonio Espigare,es ESP,DF,20-092,,0,,,,,,,,,Villarreal
+Karl Etta,cm CMR,FW,21-053,,0,,,,,,,,,Villarreal
+Rubén Gómez,es ESP,GK,22-317,,0,,,,,,,,,Villarreal
+Luiz Lúcio Reis Júnior,br BRA,GK,23-327,,0,,,,,,,,,Villarreal
+Daniel Requena,es ESP,MF,20-298,,0,,,,,,,,,Villarreal
+Arnau Solà,es ESP,DF,21-246,,0,,,,,,,,,Villarreal
+Squad Total,,,27.9,,154,1260.0,25.0,19.0,2.0,43.0,1.0,24.0,16.9,Villarreal
+Opponent Total,,,27.0,,154,1260.0,22.0,14.0,3.0,47.0,1.0,16.8,9.9,Villarreal
+Antonio Raillo,es ESP,DF,33-059,,16,1420.0,1.0,0.0,0.0,2.0,0.0,1.1,0.8,Mallorca
+Samu Costa,pt POR,MF,24-009,,15,1279.0,0.0,2.0,0.0,6.0,1.0,1.0,1.0,Mallorca
+Johan Mojica,co COL,DF,32-107,,13,1178.0,1.0,1.0,0.0,3.0,0.0,0.5,1.6,Mallorca
+Sergi Darder,es ESP,"MF,FW",30-350,,13,1044.0,0.0,1.0,0.0,0.0,0.0,0.6,1.4,Mallorca
+Martin Valjent,sk SVK,DF,28-361,,12,1060.0,0.0,0.0,0.0,2.0,0.0,0.2,0.0,Mallorca
+Dominik Greif,sk SVK,GK,27-244,,11,990.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Mallorca
+Manu Morlanes,es ESP,MF,25-329,,11,959.0,0.0,0.0,0.0,4.0,0.0,0.3,0.2,Mallorca
+Pablo Maffeo,es ESP,DF,27-147,,11,916.0,0.0,1.0,0.0,2.0,0.0,0.2,1.9,Mallorca
+Vedat Muriqi,xk KVX,FW,30-226,,10,929.0,3.0,1.0,0.0,1.0,1.0,4.1,0.6,Mallorca
+Dani Rodríguez,es ESP,"FW,MF",36-183,,10,847.0,3.0,4.0,0.0,1.0,0.0,1.6,1.6,Mallorca
+Roberto Navarro,es ESP,"MF,FW",22-238,,10,792.0,1.0,0.0,0.0,1.0,0.0,1.2,0.6,Mallorca
+Cyle Larin,ca CAN,FW,29-233,,10,734.0,2.0,2.0,0.0,2.0,0.0,1.8,1.1,Mallorca
+Omar Mascarell,gq EQG,MF,31-308,,6,639.0,0.0,0.0,0.0,2.0,0.0,0.2,0.0,Mallorca
+Antonio Sánchez,es ESP,"DF,FW",27-340,,5,631.0,0.0,0.0,0.0,0.0,0.0,0.5,0.6,Mallorca
+Leo Román,es ESP,GK,24-153,,5,450.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Mallorca
+Copete,es ESP,DF,25-057,,4,419.0,0.0,0.0,0.0,2.0,0.0,0.4,0.0,Mallorca
+Takuma Asano,jp JPN,FW,30-026,,4,319.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0,Mallorca
+Toni Lato,es ESP,DF,27-015,,3,263.0,0.0,0.0,0.0,0.0,1.0,0.0,0.3,Mallorca
+Mateu Morey,es ESP,DF,24-279,,2,175.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Mallorca
+Marc Domenech,es ESP,FW,18-340,,2,115.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Mallorca
+Valery Fernández,es ESP,"MF,FW",25-013,,1,219.0,2.0,0.0,0.0,1.0,0.0,0.8,0.0,Mallorca
+Abdón Prats,es ESP,"FW,MF",31-365,,1,206.0,2.0,0.0,1.0,3.0,0.0,1.8,0.0,Mallorca
+Chiquinho,pt POR,"MF,FW",24-305,,1,143.0,0.0,0.0,0.0,2.0,0.0,0.3,0.0,Mallorca
+Daniel Luna,co COL,MF,21-213,,0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Mallorca
+Iván Cuéllar,es ESP,GK,40-193,,0,,,,,,,,,Mallorca
+Pere Joan,es ESP,GK,22-259,,0,,,,,,,,,Mallorca
+Javier Llabrés,es ESP,FW,22-086,,0,,,,,,,,,Mallorca
+Jan Salas,es ESP,MF,19-118,,0,,,,,,,,,Mallorca
+Siebe Van Der Heyden,be BEL,DF,26-190,,0,,,,,,,,,Mallorca
+Sebastian Wade,es ESP,DF,21-241,,0,,,,,,,,,Mallorca
+Squad Total,,,28.8,,176,1440.0,15.0,12.0,1.0,35.0,3.0,17.0,11.9,Mallorca
+Opponent Total,,,27.0,,176,1440.0,18.0,10.0,3.0,31.0,2.0,18.1,12.2,Mallorca
+Sergio Herrera,es ESP,GK,31-184,15.0,15,1350.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,Osasuna
+Aimar Oroz,es ESP,MF,23-009,15.0,15,1208.0,1.0,0.0,0.0,2.0,0.0,1.6,1.5,Osasuna
+Catena,es ESP,DF,30-039,14.0,14,1260.0,0.0,0.0,0.0,4.0,0.0,0.5,0.0,Osasuna
+Jesús Areso,es ESP,DF,25-157,14.0,14,1242.0,0.0,1.0,0.0,2.0,0.0,0.1,1.1,Osasuna
+Lucas Torró,es ESP,MF,30-140,14.0,14,1219.0,2.0,0.0,0.0,5.0,0.0,0.7,0.3,Osasuna
+Ante Budimir,hr CRO,FW,33-137,15.0,13,1103.0,9.0,1.0,4.0,1.0,0.0,6.5,0.8,Osasuna
+Bryan Zaragoza,es ESP,"FW,MF",23-225,15.0,13,1051.0,1.0,5.0,0.0,3.0,0.0,1.8,1.9,Osasuna
+Enzo Boyomo,cm CMR,DF,23-060,12.0,12,1080.0,1.0,0.0,0.0,3.0,0.0,0.4,0.0,Osasuna
+Jon Moncayola,es ESP,MF,26-207,14.0,11,925.0,0.0,0.0,0.0,4.0,0.0,0.8,1.7,Osasuna
+Rubén García,es ESP,"FW,MF",31-145,14.0,10,761.0,1.0,2.0,0.0,1.0,0.0,0.9,0.6,Osasuna
+Abel,es ESP,DF,24-107,14.0,9,846.0,2.0,0.0,0.0,2.0,0.0,0.3,0.3,Osasuna
+Juan Cruz Armada,es ESP,DF,32-131,8.0,6,550.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Osasuna
+Rubén Peña,es ESP,"FW,MF",33-141,13.0,4,422.0,0.0,0.0,0.0,1.0,0.0,0.5,0.3,Osasuna
+Jorge Herrando,es ESP,DF,23-282,6.0,4,375.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Osasuna
+Pablo Ibáñez,es ESP,MF,26-077,12.0,3,426.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,Osasuna
+Moi Gómez,es ESP,"MF,FW",30-166,13.0,3,380.0,0.0,0.0,0.0,1.0,0.0,0.1,0.2,Osasuna
+Raúl,es ESP,FW,24-033,14.0,2,307.0,1.0,0.0,0.0,0.0,0.0,0.4,0.6,Osasuna
+Iker Muñoz,es ESP,MF,22-031,5.0,2,153.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Osasuna
+Nacho Vidal,es ESP,DF,29-317,4.0,1,116.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Osasuna
+Iker Benito,es ESP,"FW,MF",22-118,2.0,0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Osasuna
+José Arnaiz,es ESP,FW,29-235,4.0,0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Osasuna
+Javi Martínez,es ESP,MF,24-350,1.0,0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Osasuna
+Kike Barja,es ESP,"FW,MF",27-249,0.0,0,,,,,,,,,Osasuna
+Aitor Fernández,es ESP,GK,33-217,0.0,0,,,,,,,,,Osasuna
+Unai García,es ESP,DF,32-307,0.0,0,,,,,,,,,Osasuna
+Dimitrios Stamatakis,gr GRE,GK,21-227,0.0,0,,,,,,,,,Osasuna
+Squad Total,,,27.8,15.0,165,1350.0,18.0,10.0,4.0,36.0,0.0,15.5,10.3,Osasuna
+Opponent Total,,,26.9,15.0,165,1350.0,22.0,19.0,1.0,32.0,2.0,21.3,17.7,Osasuna
+Paulo Gazzaniga,ar ARG,GK,32-339,,15,1350.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,Girona
+Miguel Gutiérrez,es ESP,"DF,FW",23-132,,14,1251.0,1.0,2.0,0.0,1.0,0.0,1.1,2.8,Girona
+David López,es ESP,DF,35-058,,13,1207.0,0.0,0.0,0.0,2.0,0.0,0.2,0.0,Girona
+Daley Blind,nl NED,DF,34-272,,11,996.0,0.0,1.0,0.0,2.0,0.0,0.1,0.6,Girona
+Arnau Martinez,es ESP,DF,21-225,,10,888.0,1.0,1.0,0.0,2.0,0.0,0.4,0.9,Girona
+Bryan Gil,es ESP,"FW,MF",23-299,,10,859.0,2.0,3.0,0.0,2.0,0.0,1.5,2.7,Girona
+Iván Martín,es ESP,MF,25-296,,10,832.0,1.0,0.0,0.0,0.0,0.0,0.6,0.8,Girona
+Yangel Herrera,ve VEN,MF,26-327,,10,800.0,2.0,1.0,0.0,4.0,0.0,1.7,0.4,Girona
+Abel Ruiz,es ESP,FW,24-313,,9,701.0,2.0,0.0,1.0,2.0,0.0,2.1,0.1,Girona
+Oriol Romeu,es ESP,MF,33-073,,8,603.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,Girona
+Bojan Miovski,mk MKD,FW,25-165,,8,580.0,2.0,1.0,0.0,0.0,0.0,2.6,0.1,Girona
+Donny van de Beek,nl NED,MF,27-232,,7,652.0,1.0,2.0,0.0,3.0,0.0,0.5,2.7,Girona
+Ladislav Krejčí,cz CZE,DF,25-230,,7,640.0,2.0,0.0,0.0,3.0,0.0,1.1,0.0,Girona
+Arnaut Danjuma,nl NED,"FW,MF",27-310,,7,574.0,0.0,0.0,0.0,1.0,0.0,1.0,0.4,Girona
+Alejandro Francés,es ESP,DF,22-127,,7,556.0,0.0,0.0,0.0,1.0,0.0,0.2,0.0,Girona
+Viktor Tsyhankov,ua UKR,"FW,MF",27-021,,6,471.0,1.0,1.0,0.0,1.0,0.0,0.9,0.8,Girona
+Yaser Asprilla,co COL,"FW,MF",21-017,,4,399.0,1.0,0.0,0.0,1.0,0.0,0.7,0.6,Girona
+Juanpe,es ESP,DF,33-220,,3,271.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Girona
+Jhon Solis,co COL,MF,20-064,,2,321.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Girona
+Silvi Clúa,es ESP,MF,19-312,,2,163.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Gabriel Osei Misehouy,nl NED,"FW,MF",19-141,,1,188.0,1.0,0.0,0.0,0.0,0.0,0.9,0.3,Girona
+Portu,es ESP,"FW,MF",32-199,,1,183.0,0.0,1.0,0.0,2.0,0.0,0.0,0.4,Girona
+Cristhian Stuani,uy URU,FW,38-055,,0,229.0,4.0,1.0,2.0,1.0,0.0,4.4,0.1,Girona
+Iker Almena,es ESP,"FW,DF",20-216,,0,48.0,0.0,1.0,0.0,0.0,0.0,0.0,0.7,Girona
+Papa Ba,es ESP,MF,20-085,,0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Kim Minsu,kr KOR,"MF,FW",18-322,,0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Ferrán Ruiz,es ESP,MF,21-224,,0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Juan Carlos,es ESP,GK,36-321,,0,,0.0,0.0,0.0,0.0,1.0,,,Girona
+Aleksandar Andreev,bg BUL,GK,18-256,,0,,,,,,,,,Girona
+Ricard Artero,es ESP,MF,21-305,,0,,,,,,,,,Girona
+Dawda Camara,mr MTN,FW,22-032,,0,,,,,,,,,Girona
+Enric García,es ESP,MF,18-282,,0,,,,,,,,,Girona
+Jastin García,es ESP,FW,20-326,,0,,,,,,,,,Girona
+Lucas García,es ESP,GK,20-340,,0,,,,,,,,,Girona
+Pau López,es ESP,GK,29-359,,0,,,,,,,,,Girona
+Raúl Martínez,es ESP,MF,22-287,,0,,,,,,,,,Girona
+Joel Roca,es ESP,FW,19-182,,0,,,,,,,,,Girona
+Toni Villa,es ESP,"FW,MF",29-334,,0,,,,,,,,,Girona
+Squad Total,,,27.6,,165,1350.0,21.0,15.0,3.0,35.0,1.0,20.0,14.8,Girona
+Opponent Total,,,27.3,,165,1350.0,20.0,17.0,0.0,36.0,2.0,16.0,11.6,Girona
+Álex Remiro,es ESP,GK,29-257,,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real-Sociedad
+Martín Zubimendi,es ESP,MF,25-308,,14,1305.0,1.0,1.0,0.0,2.0,0.0,1.4,0.6,Real-Sociedad
+Igor Zubeldia,es ESP,DF,27-251,,13,1115.0,0.0,0.0,0.0,4.0,0.0,0.1,0.3,Real-Sociedad
+Sergio Gómez,es ESP,"MF,DF",24-093,,12,1113.0,0.0,3.0,0.0,1.0,0.0,0.2,4.6,Real-Sociedad
+Mikel Oyarzabal,es ESP,"FW,MF",27-229,,12,863.0,3.0,1.0,2.0,2.0,1.0,4.0,0.7,Real-Sociedad
+Takefusa Kubo,jp JPN,"MF,FW",23-185,,11,1018.0,3.0,0.0,0.0,1.0,0.0,1.8,2.0,Real-Sociedad
+Jon Aramburu,ve VEN,DF,22-136,,11,927.0,0.0,0.0,0.0,4.0,0.0,0.2,0.8,Real-Sociedad
+Nayef Aguerd,ma MAR,DF,28-251,,11,919.0,0.0,0.0,0.0,3.0,0.0,1.9,0.1,Real-Sociedad
+Luka Sučić,hr CRO,MF,22-089,,10,795.0,1.0,1.0,0.0,1.0,0.0,1.1,1.0,Real-Sociedad
+Brais Méndez,es ESP,MF,27-334,,9,771.0,1.0,1.0,0.0,3.0,0.0,1.6,1.6,Real-Sociedad
+Javi López,es ESP,DF,22-256,,8,716.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,Real-Sociedad
+Sheraldo Becker,sr SUR,"MF,FW",29-301,,7,630.0,1.0,0.0,0.0,0.0,0.0,1.4,0.9,Real-Sociedad
+Ander Barrenetxea,es ESP,"MF,FW",22-345,,6,550.0,0.0,1.0,0.0,2.0,0.0,1.0,0.9,Real-Sociedad
+Beñat Turrientes,es ESP,MF,22-310,,6,516.0,0.0,0.0,0.0,2.0,0.0,0.4,0.0,Real-Sociedad
+Jon Pacheco,es ESP,DF,23-333,,4,386.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Real-Sociedad
+Hamari Traoré,ml MLI,DF,32-314,,4,311.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,Real-Sociedad
+Orri Steinn Óskarsson,is ISL,FW,20-099,,3,323.0,2.0,0.0,0.0,0.0,0.0,2.7,0.0,Real-Sociedad
+Aihen Muñoz,es ESP,DF,27-112,,3,318.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Real-Sociedad
+Aritz Elustondo,es ESP,DF,30-253,,3,282.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,Real-Sociedad
+Umar Sadiq,ng NGA,FW,27-308,,2,227.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,Real-Sociedad
+Urko González,es ESP,MF,23-261,,1,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Real-Sociedad
+Jon Martin,es ESP,DF,18-340,,0,90.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Real-Sociedad
+Olasagasti,es ESP,MF,24-112,,0,87.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Real-Sociedad
+Pablo Marín,es ESP,MF,21-156,,0,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real-Sociedad
+Álvaro Odriozola,es ESP,DF,28-358,,0,43.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Real-Sociedad
+Jon Magunacelaya,es ESP,MF,24-146,,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real-Sociedad
+Egoitz Arana,es ESP,GK,22-291,,0,,,,,,,,,Real-Sociedad
+Aitor Fraga,es ESP,GK,21-269,,0,,,,,,,,,Real-Sociedad
+Unai Marrero,es ESP,GK,23-058,,0,,,,,,,,,Real-Sociedad
+Squad Total,,,25.9,,165,1350.0,12.0,9.0,2.0,33.0,1.0,18.3,14.4,Real-Sociedad
+Opponent Total,,,27.2,,165,1350.0,11.0,6.0,4.0,33.0,0.0,15.4,8.8,Real-Sociedad
+Rui Silva,pt POR,GK,30-303,15.0,15,1350.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Real-Betis
+Diego Llorente,es ESP,DF,31-112,14.0,14,1224.0,0.0,0.0,0.0,0.0,0.0,0.5,0.2,Real-Betis
+Abde Ezzalzouli,ma MAR,"FW,MF",22-355,15.0,12,1052.0,1.0,0.0,0.0,1.0,0.0,5.6,0.7,Real-Betis
+Romain Perraud,fr FRA,DF,27-075,14.0,11,1017.0,0.0,0.0,0.0,4.0,0.0,0.3,0.5,Real-Betis
+Pablo Fornals,es ESP,"MF,FW",28-288,13.0,11,952.0,1.0,0.0,0.0,2.0,0.0,1.2,1.9,Real-Betis
+Natan,br BRA,DF,23-304,12.0,9,819.0,0.0,0.0,0.0,2.0,1.0,0.1,0.5,Real-Betis
+Sergi Altimira,es ESP,MF,23-103,12.0,9,818.0,0.0,1.0,0.0,2.0,0.0,0.5,0.9,Real-Betis
+Vitor Roque,br BRA,FW,19-282,12.0,9,755.0,3.0,0.0,0.0,0.0,0.0,4.6,0.9,Real-Betis
+Marc Roca,es ESP,MF,28-010,9.0,9,729.0,0.0,1.0,0.0,3.0,0.0,0.5,0.4,Real-Betis
+Marc Bartra,es ESP,DF,33-326,8.0,7,656.0,2.0,0.0,0.0,1.0,0.0,0.7,0.0,Real-Betis
+Youssouf Sabaly,sn SEN,DF,31-276,9.0,7,647.0,0.0,0.0,0.0,1.0,0.0,0.1,0.4,Real-Betis
+Aitor Ruibal,es ESP,"FW,DF",28-259,12.0,7,558.0,0.0,1.0,0.0,2.0,0.0,0.5,1.0,Real-Betis
+Giovani Lo Celso,ar ARG,MF,28-241,9.0,6,617.0,5.0,1.0,1.0,1.0,0.0,2.2,2.3,Real-Betis
+Johnny Cardoso,us USA,MF,23-077,9.0,6,565.0,0.0,1.0,0.0,1.0,0.0,0.7,0.8,Real-Betis
+Héctor Bellerín,es ESP,DF,29-262,7.0,6,524.0,0.0,1.0,0.0,1.0,0.0,0.2,2.0,Real-Betis
+Ezequiel Ávila,ar ARG,FW,30-304,13.0,4,451.0,2.0,0.0,0.0,4.0,0.0,1.3,0.8,Real-Betis
+Ricardo Rodríguez,ch SUI,DF,32-103,6.0,4,334.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Real-Betis
+William Carvalho,pt POR,MF,32-243,4.0,4,247.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Real-Betis
+Iker Losada,es ESP,"MF,FW",23-127,10.0,3,336.0,0.0,0.0,0.0,0.0,0.0,0.5,0.3,Real-Betis
+Cédric Bakambu,cd COD,FW,33-239,9.0,2,272.0,0.0,1.0,0.0,1.0,0.0,1.2,0.2,Real-Betis
+Assane Diao,es ESP,FW,19-090,7.0,2,215.0,0.0,2.0,0.0,0.0,0.0,0.5,1.2,Real-Betis
+Juanmi,es ESP,"FW,MF",31-200,8.0,2,190.0,0.0,0.0,0.0,2.0,0.0,0.6,0.3,Real-Betis
+Nabil Fekir,fr FRA,MF,31-141,2.0,2,180.0,0.0,1.0,0.0,0.0,0.0,0.7,0.5,Real-Betis
+Carlos Guirao,es ESP,MF,21-223,2.0,2,110.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real-Betis
+Rodri,es ESP,FW,24-204,3.0,1,118.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,Real-Betis
+Jesus Rodríguez,es ESP,FW,19-015,1.0,1,82.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Real-Betis
+Mateo Flores,es ESP,MF,20-243,2.0,0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real-Betis
+Adrián,es ESP,GK,37-338,0.0,0,,0.0,0.0,0.0,2.0,0.0,,,Real-Betis
+Alcázar,es ESP,DF,22-148,0.0,0,,,,,,,,,Real-Betis
+Pablo Busto,es ESP,DF,19-082,0.0,0,,,,,,,,,Real-Betis
+Manu González,es ESP,GK,17-232,0.0,0,,,,,,,,,Real-Betis
+Nobel Mendy,fr FRA,DF,20-094,0.0,0,,,,,,,,,Real-Betis
+Fran Vieites,es ESP,GK,25-213,0.0,0,,,,,,,,,Real-Betis
+Squad Total,,,27.7,15.0,165,1350.0,14.0,10.0,1.0,31.0,1.0,22.0,16.2,Real-Betis
+Opponent Total,,,27.5,15.0,165,1350.0,17.0,10.0,3.0,38.0,2.0,19.0,13.9,Real-Betis
+Carmona,es ESP,DF,22-312,,15,1322.0,0.0,0.0,0.0,3.0,0.0,0.3,0.9,Sevilla
+Dodi Lukebakio,be BEL,FW,27-073,,14,1181.0,6.0,0.0,1.0,1.0,0.0,4.7,1.1,Sevilla
+Nemanja Gudelj,rs SRB,"MF,DF",33-020,,12,1080.0,0.0,0.0,0.0,3.0,0.0,0.2,0.3,Sevilla
+Adrià Pedrosa,es ESP,DF,26-207,,12,1007.0,0.0,1.0,0.0,4.0,0.0,0.3,0.6,Sevilla
+Isaac Romero,es ESP,FW,24-202,,12,978.0,0.0,2.0,0.0,4.0,0.0,2.2,1.3,Sevilla
+Ørjan Nyland,no NOR,GK,34-087,,11,963.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,Sevilla
+Loïc Bade,fr FRA,DF,24-239,,10,921.0,0.0,1.0,0.0,3.0,0.0,0.2,0.6,Sevilla
+Lucien Agoume,fr FRA,MF,22-301,,8,690.0,0.0,0.0,0.0,1.0,1.0,0.1,0.6,Sevilla
+Peque,es ESP,"MF,FW",22-063,,8,639.0,0.0,0.0,0.0,1.0,0.0,1.3,1.0,Sevilla
+Djibril Sow,ch SUI,MF,27-304,,7,656.0,1.0,0.0,0.0,3.0,0.0,1.6,0.4,Sevilla
+Albert Sambi Lokonga,be BEL,MF,25-045,,7,651.0,0.0,1.0,0.0,1.0,0.0,0.3,0.4,Sevilla
+Kike Salas,es ESP,DF,22-227,,6,558.0,0.0,0.0,0.0,2.0,0.0,0.2,0.0,Sevilla
+Chidera Ejuke,ng NGA,"FW,MF",26-339,,6,543.0,1.0,0.0,0.0,0.0,0.0,0.7,1.3,Sevilla
+Tanguy Nianzou,fr FRA,DF,22-182,,6,518.0,0.0,0.0,0.0,3.0,1.0,0.2,0.0,Sevilla
+Juanlu Sánchez,es ESP,"MF,DF",21-113,,5,490.0,1.0,1.0,0.0,3.0,1.0,0.9,0.2,Sevilla
+Marcão,br BRA,DF,28-184,,5,456.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,Sevilla
+Álvaro Fernández,es ESP,GK,26-237,,4,387.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Sevilla
+Kelechi Iheanacho,ng NGA,FW,28-064,,4,354.0,0.0,0.0,0.0,0.0,0.0,1.5,0.3,Sevilla
+Saúl Ñíguez,es ESP,MF,30-015,,4,347.0,0.0,2.0,0.0,1.0,1.0,0.8,0.8,Sevilla
+Valentín Barco,ar ARG,"DF,FW",20-136,,3,288.0,0.0,0.0,0.0,0.0,0.0,0.3,0.6,Sevilla
+Jesús Navas,es ESP,"FW,MF",39-015,,2,328.0,1.0,0.0,0.0,0.0,0.0,0.5,0.5,Sevilla
+Lucas Ocampos,ar ARG,FW,30-148,,2,175.0,0.0,1.0,0.0,0.0,0.0,0.2,0.3,Sevilla
+Stanis Idumbo,be BEL,FW,19-160,,2,116.0,1.0,0.0,0.0,0.0,0.0,0.6,0.0,Sevilla
+Suso,es ESP,"FW,MF",31-017,,0,142.0,0.0,0.0,0.0,0.0,0.0,0.2,0.3,Sevilla
+Israel Domínguez,es ESP,FW,21-213,,0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sevilla
+Gonzalo Montiel,ar ARG,"MF,DF",27-340,,0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sevilla
+Mateo Mejía,es ESP,FW,21-250,,0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sevilla
+Matías Árbol,es ESP,GK,22-085,,0,,,,,,,,,Sevilla
+Manu Bueno,es ESP,MF,20-132,,0,,,,,,,,,Sevilla
+Pablo Cruz,es ESP,MF,20-330,,0,,,,,,,,,Sevilla
+Alberto López,es ESP,GK,21-026,,0,,,,,,,,,Sevilla
+Alberto López,es ESP,MF,19-234,,0,,,,,,,,,Sevilla
+Ramón Martínez,es ESP,DF,22-045,,0,,,,,,,,,Sevilla
+Pedro Ortiz,es ESP,MF,24-109,,0,,,,,,,,,Sevilla
+Squad Total,,,26.5,,165,1350.0,11.0,9.0,1.0,38.0,5.0,16.9,11.6,Sevilla
+Opponent Total,,,27.2,,165,1350.0,18.0,10.0,4.0,33.0,2.0,19.4,12.4,Sevilla
+Óscar Mingueza,es ESP,"MF,DF",25-207,14.0,14,1095.0,2.0,5.0,0.0,3.0,0.0,0.6,4.3,Celta-Vigo
+Carl Starfelt,se SWE,DF,29-188,14.0,12,1096.0,1.0,0.0,0.0,2.0,0.0,0.3,0.1,Celta-Vigo
+Iago Aspas,es ESP,"FW,MF",37-127,14.0,12,1068.0,5.0,3.0,2.0,4.0,1.0,5.2,2.2,Celta-Vigo
+Hugo Álvarez,es ESP,"MF,DF",21-157,15.0,11,1044.0,2.0,1.0,0.0,4.0,0.0,1.6,0.6,Celta-Vigo
+Vicente Guaita,es ESP,GK,37-331,11.0,11,990.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celta-Vigo
+Fran Beltrán,es ESP,MF,25-307,11.0,10,826.0,1.0,0.0,0.0,1.0,0.0,0.3,0.8,Celta-Vigo
+Marcos Alonso,es ESP,DF,33-344,11.0,9,901.0,0.0,0.0,0.0,3.0,0.0,0.5,0.2,Celta-Vigo
+Borja Iglesias,es ESP,FW,31-324,15.0,9,748.0,4.0,0.0,0.0,0.0,0.0,3.7,0.7,Celta-Vigo
+Jonathan Bamba,ci CIV,"FW,MF",28-255,10.0,9,718.0,0.0,0.0,0.0,1.0,0.0,0.8,1.3,Celta-Vigo
+Javi Rodríguez,es ESP,DF,21-163,14.0,8,873.0,1.0,1.0,0.0,3.0,0.0,0.4,0.7,Celta-Vigo
+Ilaix Moriba,gn GUI,MF,21-322,12.0,7,602.0,0.0,0.0,0.0,5.0,1.0,0.2,0.8,Celta-Vigo
+Hugo Sotelo,es ESP,MF,20-353,11.0,7,598.0,0.0,0.0,0.0,4.0,0.0,0.1,0.5,Celta-Vigo
+Javier Manquillo,es ESP,DF,30-215,9.0,7,494.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Celta-Vigo
+Damián Rodríguez,es ESP,MF,21-264,11.0,6,622.0,0.0,0.0,0.0,2.0,0.0,0.0,0.5,Celta-Vigo
+Anastasios Douvikas,gr GRE,FW,25-126,15.0,6,603.0,3.0,0.0,0.0,2.0,0.0,4.1,0.2,Celta-Vigo
+Williot Swedberg,se SWE,"FW,MF",20-309,13.0,5,533.0,2.0,3.0,0.0,1.0,0.0,2.9,1.8,Celta-Vigo
+Jailson Siqueira,br BRA,"DF,MF",29-090,6.0,5,451.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Celta-Vigo
+Iván Villar,es ESP,GK,27-150,4.0,4,360.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celta-Vigo
+Carlos Dominguez,es ESP,DF,23-299,6.0,4,344.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Celta-Vigo
+Sergio Carreira,es ESP,"MF,DF",24-054,4.0,3,237.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,Celta-Vigo
+Alfon,es ESP,"FW,MF",25-216,8.0,2,257.0,1.0,0.0,0.0,0.0,1.0,1.5,0.8,Celta-Vigo
+Pablo Durán,es ESP,"FW,MF",23-195,6.0,2,186.0,0.0,1.0,0.0,0.0,0.0,0.1,0.5,Celta-Vigo
+Mihailo Ristić,rs SRB,"MF,DF",29-036,2.0,2,111.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celta-Vigo
+Franco Cervi,ar ARG,DF,30-194,1.0,0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celta-Vigo
+Joseph Aidoo,gh GHA,DF,29-068,1.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celta-Vigo
+Tadeo Allende,ar ARG,FW,25-290,1.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celta-Vigo
+César Fernández,es ESP,GK,20-313,0.0,0,,,,,,,,,Celta-Vigo
+Fer López,,MF,,0.0,0,,,,,,,,,Celta-Vigo
+Marc Vidal,es ESP,GK,24-296,0.0,0,,,,,,,,,Celta-Vigo
+Squad Total,,,27.6,15.0,165,1350.0,22.0,14.0,2.0,36.0,3.0,22.3,16.8,Celta-Vigo
+Opponent Total,,,26.9,15.0,165,1350.0,25.0,21.0,0.0,38.0,3.0,18.0,14.0,Celta-Vigo
+Florian Lejeune,fr FRA,DF,33-200,14.0,14,1255.0,0.0,1.0,0.0,2.0,0.0,0.7,0.2,Rayo-Vallecano
+Abdul Mumin,gh GHA,DF,26-183,13.0,13,1083.0,1.0,1.0,0.0,4.0,1.0,0.3,0.2,Rayo-Vallecano
+Andrei Ratiu,ro ROU,DF,26-169,12.0,12,1069.0,1.0,1.0,0.0,1.0,0.0,1.2,1.8,Rayo-Vallecano
+Jorge de Frutos,es ESP,"MF,FW",27-290,14.0,11,982.0,3.0,1.0,0.0,1.0,0.0,1.6,1.5,Rayo-Vallecano
+Óscar Valentín,es ESP,MF,30-108,14.0,11,967.0,0.0,0.0,0.0,1.0,0.0,0.3,0.2,Rayo-Vallecano
+Augusto Batalla,ar ARG,GK,28-220,10.0,10,900.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Rayo-Vallecano
+Álvaro García,es ESP,"MF,FW",32-040,12.0,9,814.0,1.0,0.0,0.0,3.0,0.0,1.8,1.2,Rayo-Vallecano
+Isaac Palazón Camacho,es ESP,"FW,MF",29-345,14.0,9,782.0,1.0,1.0,0.0,1.0,0.0,1.9,1.1,Rayo-Vallecano
+Sergio Camello,es ESP,FW,23-300,14.0,9,728.0,2.0,0.0,0.0,1.0,0.0,3.1,0.9,Rayo-Vallecano
+Unai López,es ESP,MF,29-037,12.0,9,664.0,2.0,0.0,0.0,5.0,1.0,0.4,0.3,Rayo-Vallecano
+Adri Embarba,es ESP,"FW,MF",32-213,13.0,8,660.0,0.0,1.0,0.0,2.0,0.0,1.0,1.1,Rayo-Vallecano
+Pep Chavarría,es ESP,DF,26-240,10.0,7,653.0,0.0,1.0,0.0,1.0,0.0,0.4,0.2,Rayo-Vallecano
+Iván Balliu,al ALB,DF,32-340,10.0,6,593.0,0.0,0.0,0.0,2.0,0.0,0.0,0.2,Rayo-Vallecano
+Randy Nteka,ao ANG,FW,27-000,9.0,5,425.0,1.0,0.0,0.0,1.0,0.0,0.5,0.3,Rayo-Vallecano
+Pathé Ciss,sn SEN,MF,30-265,11.0,4,461.0,0.0,1.0,0.0,3.0,0.0,0.3,0.7,Rayo-Vallecano
+Gerard Gumbau,es ESP,MF,29-354,10.0,4,450.0,0.0,1.0,0.0,2.0,0.0,0.5,1.0,Rayo-Vallecano
+Cárdenas,es ESP,GK,27-253,4.0,4,360.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rayo-Vallecano
+Alfonso Espino,uy URU,DF,32-336,4.0,4,304.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Rayo-Vallecano
+Óscar Trejo,ar ARG,"MF,FW",36-224,5.0,2,167.0,0.0,0.0,0.0,0.0,0.0,0.3,0.9,Rayo-Vallecano
+James Rodríguez,co COL,"MF,FW",33-147,6.0,1,140.0,0.0,0.0,0.0,1.0,0.0,0.3,0.2,Rayo-Vallecano
+Aridane Hernández,es ESP,DF,35-258,3.0,1,114.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,Rayo-Vallecano
+Pedro Díaz,es ESP,"MF,DF",26-184,5.0,1,94.0,0.0,0.0,0.0,1.0,0.0,0.2,0.1,Rayo-Vallecano
+Sergi Guardiola,es ESP,FW,33-191,5.0,0,80.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,Rayo-Vallecano
+Etienne Eto'o,cm CMR,FW,22-110,0.0,0,,,,,,,,,Rayo-Vallecano
+Pelayo Fernandez,es ESP,DF,21-221,0.0,0,,,,,,,,,Rayo-Vallecano
+Marco de las Sías,es ESP,DF,18-343,0.0,0,,,,,,,,,Rayo-Vallecano
+Joni Montiel,es ESP,"FW,MF",26-094,0.0,0,,,,,,,,,Rayo-Vallecano
+Morro,es ESP,GK,24-086,0.0,0,,,,,,,,,Rayo-Vallecano
+Raúl de Tomás,es ESP,FW,30-050,0.0,0,,,,,,,,,Rayo-Vallecano
+Squad Total,,,29.5,14.0,154,1260.0,12.0,9.0,0.0,34.0,2.0,15.2,11.7,Rayo-Vallecano
+Opponent Total,,,27.1,14.0,154,1260.0,15.0,13.0,0.0,27.0,0.0,16.1,12.8,Rayo-Vallecano
+Kirian Rodríguez,es ESP,MF,28-276,,14,1169.0,0.0,3.0,0.0,2.0,0.0,1.3,1.0,Las-Palmas
+Jasper Cillessen,nl NED,GK,35-228,,13,1139.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Las-Palmas
+Alberto Moleiro,es ESP,"FW,MF",21-067,,13,1134.0,4.0,0.0,0.0,3.0,0.0,3.0,1.7,Las-Palmas
+Álex Suárez,es ESP,DF,31-263,,13,1073.0,0.0,0.0,0.0,4.0,0.0,0.1,0.0,Las-Palmas
+Álex Muñoz,es ESP,DF,30-129,,11,920.0,3.0,0.0,0.0,1.0,0.0,0.7,0.4,Las-Palmas
+Scott McKenna,sct SCO,DF,28-024,,10,908.0,0.0,0.0,0.0,1.0,0.0,0.8,0.2,Las-Palmas
+Fábio Silva,pt POR,"FW,MF",22-140,,10,808.0,5.0,1.0,1.0,4.0,0.0,3.2,0.2,Las-Palmas
+Javier Muñoz,es ESP,MF,29-282,,9,915.0,0.0,2.0,0.0,1.0,0.0,0.5,1.2,Las-Palmas
+Viti,es ESP,DF,27-081,,9,859.0,0.0,1.0,0.0,3.0,0.0,0.0,0.7,Las-Palmas
+Dario Essugo,pt POR,MF,19-267,,9,759.0,1.0,0.0,0.0,4.0,0.0,0.2,0.1,Las-Palmas
+Sandro Ramírez,es ESP,"FW,MF",29-150,,9,719.0,4.0,2.0,0.0,2.0,0.0,1.4,1.2,Las-Palmas
+José Campaña,es ESP,MF,31-189,,8,537.0,0.0,1.0,0.0,3.0,0.0,0.1,0.5,Las-Palmas
+Oliver McBurnie,sct SCO,FW,28-185,,7,714.0,0.0,3.0,0.0,0.0,0.0,1.0,1.6,Las-Palmas
+Mika Màrmol,es ESP,DF,22-157,,7,599.0,0.0,0.0,0.0,2.0,0.0,0.1,0.2,Las-Palmas
+Marvin,es ESP,"DF,FW",24-156,,5,427.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,Las-Palmas
+Juan Herzog,es ESP,DF,21-207,,4,377.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,Las-Palmas
+Manuel Fuster,es ESP,"FW,MF",27-045,,3,293.0,1.0,0.0,0.0,0.0,0.0,0.3,0.5,Las-Palmas
+Adnan Januzaj,be BEL,"FW,MF",29-305,,3,256.0,0.0,1.0,0.0,2.0,0.0,0.3,0.4,Las-Palmas
+Jaime Mata,es ESP,FW,36-043,,2,265.0,0.0,0.0,0.0,3.0,0.0,0.9,0.0,Las-Palmas
+Enzo Loiodice,fr FRA,MF,24-009,,2,257.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Las-Palmas
+Dinko Horkaš,hr CRO,GK,25-271,,2,211.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Las-Palmas
+Benito Ramírez,es ESP,"DF,MF",29-148,,1,279.0,0.0,0.0,0.0,1.0,0.0,0.1,0.6,Las-Palmas
+Daley Sinkgraven,nl NED,DF,29-155,,1,91.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Las-Palmas
+Marc Cardona,es ESP,FW,29-151,,0,68.0,0.0,0.0,0.0,1.0,0.0,0.2,0.0,Las-Palmas
+Fabio González,es ESP,MF,27-298,,0,53.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Las-Palmas
+Pejiño,es ESP,FW,28-130,,0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Las-Palmas
+Aboubacar Bassinga,ci CIV,MF,19-146,,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Las-Palmas
+Iván Gil,es ESP,MF,24-323,,0,,,,,,,,,Las-Palmas
+Álvaro Killane,es ESP,GK,19-358,,0,,,,,,,,,Las-Palmas
+Valentín Pezzolesi,es ESP,DF,17-234,,0,,,,,,,,,Las-Palmas
+Víctor Puig,es ESP,GK,25-115,,0,,,,,,,,,Las-Palmas
+Squad Total,,,27.7,,165,1350.0,18.0,14.0,1.0,41.0,0.0,14.1,11.2,Las-Palmas
+Opponent Total,,,27.4,,165,1350.0,24.0,19.0,3.0,35.0,6.0,27.3,17.9,Las-Palmas
+Sergi,es ESP,DF,32-230,15.0,14,1302.0,1.0,0.0,0.0,2.0,0.0,0.8,0.0,Leganes
+Juan Cruz,es ESP,"FW,MF",24-225,15.0,11,922.0,4.0,1.0,0.0,1.0,0.0,1.3,1.5,Leganes
+Seydouba Cissé,gn GUI,MF,23-300,13.0,11,908.0,0.0,0.0,0.0,2.0,0.0,0.3,0.2,Leganes
+Valentin Rosier,fr FRA,DF,28-109,13.0,10,964.0,0.0,1.0,0.0,4.0,0.0,0.2,0.3,Leganes
+Javi Hernández,es ESP,DF,26-218,12.0,10,895.0,0.0,1.0,0.0,1.0,0.0,0.2,0.9,Leganes
+Yvan Neyou,cm CMR,MF,27-338,11.0,10,846.0,1.0,1.0,0.0,6.0,0.0,0.1,0.2,Leganes
+Miguel,es ESP,FW,25-094,14.0,9,896.0,1.0,1.0,1.0,3.0,0.0,2.0,0.6,Leganes
+Matija Nastasić,rs SRB,DF,31-253,10.0,9,855.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Leganes
+Marko Dmitrović,rs SRB,GK,32-317,9.0,9,810.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leganes
+Renato Tapia,pe PER,"MF,DF",29-131,14.0,9,808.0,1.0,0.0,0.0,4.0,0.0,0.3,0.1,Leganes
+Darko Brašanac,rs SRB,MF,32-298,13.0,8,790.0,1.0,2.0,0.0,0.0,0.0,1.0,0.2,Leganes
+Enric Franquesa,es ESP,"DF,FW",27-284,12.0,7,616.0,1.0,0.0,0.0,1.0,0.0,0.3,0.1,Leganes
+Adrià Altimira,es ESP,"DF,FW",23-253,9.0,7,598.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Leganes
+Jorge Sáenz,es ESP,DF,28-019,8.0,7,530.0,1.0,0.0,0.0,2.0,0.0,0.4,0.0,Leganes
+Juan Soriano,es ESP,GK,27-105,6.0,6,540.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Leganes
+Óscar Rodríguez Arnaiz,es ESP,"MF,FW",26-161,10.0,5,436.0,1.0,2.0,0.0,3.0,0.0,0.8,0.6,Leganes
+Sébastien Haller,ci CIV,FW,30-167,8.0,5,404.0,0.0,0.0,0.0,0.0,0.0,0.4,0.2,Leganes
+Dani Raba,es ESP,"FW,MF",29-038,8.0,5,383.0,0.0,3.0,0.0,0.0,0.0,1.0,1.4,Leganes
+Munir El Haddadi,ma MAR,"FW,MF",29-096,9.0,4,360.0,1.0,0.0,0.0,1.0,0.0,0.2,0.2,Leganes
+Roberto López,es ESP,MF,24-226,9.0,3,358.0,0.0,1.0,0.0,0.0,0.0,0.5,0.7,Leganes
+Diego,es ESP,"FW,MF",24-232,8.0,3,271.0,1.0,0.0,0.0,0.0,0.0,0.8,0.1,Leganes
+Aritz Arambarri,es ESP,DF,26-310,2.0,2,177.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leganes
+Julián Chicco,ar ARG,MF,26-328,7.0,1,181.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Leganes
+Álvaro Abajas,es ESP,GK,21-208,0.0,0,,,,,,,,,Leganes
+Lalo Aguilar,es ESP,DF,22-178,0.0,0,,,,,,,,,Leganes
+Iker Bachiller,es ESP,DF,22-083,0.0,0,,,,,,,,,Leganes
+Naim García,es ESP,MF,22-178,0.0,0,,,,,,,,,Leganes
+Álex Gil,es ESP,MF,21-305,0.0,0,,,,,,,,,Leganes
+Carlos Guirao,es ESP,MF,21-223,0.0,0,,,,,,,,,Leganes
+Jackson Porozo,ec ECU,DF,24-124,0.0,0,,,,,,,,,Leganes
+João Urbáez,do DOM,DF,22-135,0.0,0,,,,,,,,,Leganes
+Squad Total,,,28.2,15.0,165,1350.0,14.0,13.0,1.0,34.0,0.0,10.6,7.4,Leganes
+Opponent Total,,,27.6,15.0,165,1350.0,18.0,12.0,2.0,27.0,1.0,21.9,16.1,Leganes
+Antonio Sivera,es ESP,GK,28-117,15.0,15,1350.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,Alaves
+Carlos Vicente,es ESP,"FW,MF",25-227,14.0,14,1233.0,3.0,0.0,0.0,1.0,0.0,1.7,1.8,Alaves
+Abdel Abqar,ma MAR,DF,25-271,14.0,14,1128.0,0.0,1.0,0.0,7.0,0.0,0.4,0.2,Alaves
+Nahuel Tenaglia,ar ARG,DF,28-289,13.0,13,1111.0,1.0,1.0,0.0,3.0,0.0,0.5,0.7,Alaves
+Manu Sánchez,es ESP,DF,24-104,13.0,11,1031.0,0.0,0.0,0.0,5.0,0.0,0.2,0.2,Alaves
+Antonio Blanco,es ESP,MF,24-136,14.0,11,925.0,0.0,1.0,0.0,2.0,0.0,0.5,0.5,Alaves
+Ander Guevara,es ESP,MF,27-152,14.0,10,940.0,0.0,1.0,0.0,1.0,0.0,0.4,0.5,Alaves
+Jon Guridi,es ESP,MF,29-282,13.0,10,836.0,2.0,0.0,1.0,3.0,0.0,1.5,0.5,Alaves
+Kiké,es ESP,FW,35-011,14.0,8,762.0,3.0,0.0,0.0,4.0,1.0,1.6,0.4,Alaves
+Moussa Diarra,ml MLI,DF,24-026,10.0,7,669.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Alaves
+Stoichkov,es ESP,"MF,FW",31-031,13.0,6,592.0,0.0,1.0,0.0,1.0,0.0,1.0,1.2,Alaves
+Tomás Conechny,ar ARG,"FW,MF",26-251,9.0,6,471.0,1.0,0.0,0.0,3.0,0.0,1.3,0.2,Alaves
+Toni Martínez,es ESP,FW,27-159,12.0,5,492.0,3.0,0.0,0.0,0.0,0.0,1.5,0.5,Alaves
+Santiago Mouriño,uy URU,DF,22-297,8.0,5,451.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,Alaves
+Carlos Martín,es ESP,"FW,MF",22-228,9.0,5,443.0,1.0,0.0,0.0,1.0,0.0,1.3,0.3,Alaves
+Aleksandar Sedlar,rs SRB,DF,32-359,6.0,5,415.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Alaves
+Pica,es ESP,DF,22-340,6.0,4,404.0,0.0,0.0,0.0,1.0,0.0,0.2,0.0,Alaves
+Abderrahman Rebbach,dz ALG,"FW,MF",26-117,7.0,4,361.0,0.0,0.0,0.0,1.0,0.0,0.2,0.3,Alaves
+Carlos Benavídez,uy URU,MF,26-251,6.0,4,230.0,1.0,1.0,0.0,1.0,0.0,0.1,0.6,Alaves
+Joan Jordán,es ESP,MF,30-153,8.0,2,343.0,0.0,2.0,0.0,1.0,0.0,0.5,0.2,Alaves
+Hugo Novoa,es ESP,"DF,FW",21-340,4.0,2,222.0,0.0,0.0,0.0,0.0,0.0,0.5,0.2,Alaves
+Asier Villalibre,es ESP,FW,27-067,7.0,2,213.0,1.0,0.0,1.0,0.0,0.0,1.4,0.0,Alaves
+Luka Romero,ar ARG,"FW,MF",20-018,6.0,2,199.0,0.0,0.0,0.0,0.0,0.0,0.8,0.2,Alaves
+Luis Rioja,es ESP,FW,31-051,1.0,0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Alaves
+Alejandro Jay Agustín,es ESP,MF,22-152,0.0,0,,,,,,,,,Alaves
+Julen Lartitegi,es ESP,FW,21-068,0.0,0,,,,,,,,,Alaves
+Egoitz Muñoz,es ESP,DF,19-340,0.0,0,,,,,,,,,Alaves
+Eneko Ortiz,es ESP,MF,21-194,0.0,0,,,,,,,,,Alaves
+Jesús Owono,gq EQG,GK,23-280,0.0,0,,,,,,,,,Alaves
+Joaquín Panichelli,ar ARG,FW,22-060,0.0,0,,,,,,,,,Alaves
+Adrian Rodriguez,es ESP,GK,23-360,0.0,0,,,,,,,,,Alaves
+Squad Total,,,27.0,15.0,165,1350.0,16.0,8.0,2.0,42.0,2.0,15.6,9.0,Alaves
+Opponent Total,,,27.5,15.0,165,1350.0,24.0,17.0,6.0,39.0,2.0,21.0,15.0,Alaves
+David Soria,es ESP,GK,31-246,,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Getafe
+Luis Milla,es ESP,MF,30-060,,15,1334.0,1.0,1.0,1.0,1.0,0.0,1.3,1.6,Getafe
+Omar Alderete,py PAR,DF,27-346,,14,1260.0,0.0,0.0,0.0,3.0,0.0,0.5,0.8,Getafe
+Diego Rico,es ESP,DF,31-287,,14,1257.0,0.0,1.0,0.0,4.0,0.0,0.2,1.4,Getafe
+Chrisantus Uche,ng NGA,"FW,MF",21-201,,13,1102.0,1.0,0.0,0.0,3.0,0.0,2.0,0.3,Getafe
+Carles Pérez,es ESP,"MF,FW",26-294,,13,1040.0,0.0,0.0,0.0,1.0,0.0,1.4,1.1,Getafe
+Djené,tg TOG,DF,32-341,,13,1037.0,0.0,0.0,0.0,5.0,0.0,0.1,0.4,Getafe
+Alex Sola,es ESP,"MF,FW",25-180,,12,934.0,0.0,1.0,0.0,4.0,0.0,0.9,0.7,Getafe
+Iglesias,es ESP,DF,26-156,,11,1067.0,0.0,0.0,0.0,1.0,0.0,0.2,1.0,Getafe
+Mauro Arambarri,uy URU,"MF,FW",29-067,,11,963.0,4.0,0.0,2.0,4.0,0.0,2.6,0.1,Getafe
+Bertuğ Yıldırım,tr TUR,FW,22-147,,9,735.0,1.0,0.0,0.0,5.0,0.0,2.1,0.8,Getafe
+Juan Berrocal,es ESP,DF,25-216,,6,552.0,0.0,0.0,0.0,3.0,1.0,0.2,0.0,Getafe
+Allan Nyom,cm CMR,"DF,MF",36-210,,4,332.0,1.0,1.0,0.0,3.0,0.0,0.4,0.3,Getafe
+Nabil Aberdin,fr FRA,MF,22-105,,4,263.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Getafe
+Carles Aleñá,es ESP,"MF,FW",26-336,,3,311.0,0.0,0.0,0.0,1.0,0.0,0.8,0.0,Getafe
+Jesús Santiago,es ESP,MF,20-195,,3,227.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Getafe
+Álvaro Rodríguez,uy URU,FW,20-145,,2,310.0,1.0,0.0,0.0,2.0,0.0,0.5,0.2,Getafe
+Domingos Duarte,pt POR,DF,29-271,,2,182.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Getafe
+Peter Federico,do DOM,"MF,FW",22-134,,1,237.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,Getafe
+Borja Mayoral,es ESP,FW,27-245,,0,130.0,1.0,0.0,1.0,0.0,0.0,1.2,0.3,Getafe
+Alberto Risco,es ESP,"MF,FW",19-098,,0,69.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,Getafe
+Coba da Costa,es ESP,FW,22-133,,0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Getafe
+John Joe,ie IRL,"MF,FW",21-043,,0,32.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Getafe
+Abdoulaye Keita,es ESP,MF,22-096,,0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Getafe
+Gorka Rivera Alonso,es ESP,"DF,MF",20-127,,0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Getafe
+David Argüelles,es ESP,MF,22-340,,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Getafe
+Guillem Cortiñas,es ESP,DF,21-306,,0,,,,,,,,,Getafe
+Diego Ferrer,,GK,,,0,,,,,,,,,Getafe
+Jiří Letáček,,GK,25-332,,0,,,,,,,,,Getafe
+Djordjije Medenica,es ESP,GK,18-019,,0,,,,,,,,,Getafe
+Squad Total,,,27.7,,165,1350.0,10.0,4.0,4.0,43.0,1.0,14.9,9.1,Getafe
+Opponent Total,,,27.4,,165,1350.0,13.0,9.0,2.0,45.0,1.0,15.9,11.5,Getafe
+Joan García,es ESP,GK,23-216,14.0,14,1260.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Espanyol
+Omar El Hilali,ma MAR,DF,21-085,14.0,14,1220.0,0.0,0.0,0.0,4.0,0.0,0.0,0.1,Espanyol
+Alex Král,cz CZE,MF,26-201,14.0,13,1204.0,0.0,0.0,0.0,0.0,0.0,0.4,0.5,Espanyol
+Marash Kumbulla,al ALB,DF,24-302,13.0,12,1012.0,1.0,0.0,0.0,4.0,0.0,0.7,0.0,Espanyol
+Javi Puado,es ESP,"FW,MF",26-195,12.0,12,1004.0,5.0,1.0,1.0,3.0,0.0,3.0,0.9,Espanyol
+Jofre,es ESP,"MF,FW",23-172,14.0,12,941.0,2.0,3.0,0.0,4.0,0.0,1.5,1.4,Espanyol
+Carlos Romero,es ESP,"DF,MF",23-038,14.0,11,930.0,1.0,1.0,0.0,4.0,0.0,1.0,0.8,Espanyol
+Leandro Cabrera,uy URU,DF,33-172,10.0,9,810.0,1.0,1.0,0.0,1.0,0.0,0.3,0.3,Espanyol
+Alejo Véliz,ar ARG,FW,21-078,12.0,9,711.0,1.0,0.0,0.0,2.0,0.0,1.7,0.5,Espanyol
+Álvaro Tejero,es ESP,"MF,DF",28-139,13.0,8,692.0,1.0,2.0,0.0,0.0,0.0,0.4,2.1,Espanyol
+Pol Lozano,es ESP,MF,25-061,10.0,8,635.0,0.0,0.0,0.0,4.0,0.0,0.0,0.3,Espanyol
+José Gragera,es ESP,MF,24-006,10.0,7,569.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Espanyol
+Sergi Gómez,es ESP,DF,32-253,10.0,5,562.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,Espanyol
+Brian Oliván,es ESP,"DF,MF",30-249,10.0,5,468.0,0.0,1.0,0.0,0.0,0.0,0.0,0.4,Espanyol
+Irvin Cardona,fr FRA,"FW,MF",27-120,12.0,3,413.0,1.0,1.0,0.0,1.0,0.0,1.1,0.5,Espanyol
+Walid Cheddira,ma MAR,FW,26-319,11.0,3,383.0,1.0,1.0,0.0,2.0,0.0,0.6,0.7,Espanyol
+Álvaro Aguado,es ESP,MF,28-219,9.0,3,316.0,0.0,0.0,0.0,1.0,0.0,0.4,0.0,Espanyol
+Fernando Calero,es ESP,DF,29-083,3.0,2,187.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Espanyol
+Rafael Bauza,es ESP,MF,19-311,3.0,2,154.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Espanyol
+Pere Milla,es ESP,"MF,FW",32-074,7.0,1,210.0,0.0,0.0,0.0,2.0,0.0,0.2,0.1,Espanyol
+Justin Smith,ca CAN,MF,21-306,2.0,1,89.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Espanyol
+Antoniu,es ESP,"MF,DF",22-092,4.0,0,59.0,0.0,0.0,0.0,2.0,0.0,0.2,0.1,Espanyol
+Naci Ünüvar,nl NED,"MF,DF",21-176,2.0,0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Espanyol
+Alex Almansa,es ESP,FW,21-028,0.0,0,,,,,,,,,Espanyol
+Català,es ESP,DF,20-112,0.0,0,,,,,,,,,Espanyol
+Edu Expósito,es ESP,MF,28-127,0.0,0,,,,,,,,,Espanyol
+Fortuño,es ESP,GK,23-062,0.0,0,,,,,,,,,Espanyol
+Fernando Pacheco,es ESP,GK,32-202,0.0,0,,,,,,,,,Espanyol
+Omar Sadik,ma MAR,FW,20-259,0.0,0,,,,,,,,,Espanyol
+Salvi,es ESP,"FW,MF",33-251,0.0,0,,,,,,,,,Espanyol
+Llorenç Serred,es ESP,GK,19-093,0.0,0,,,,,,,,,Espanyol
+Pol Tristán,es ESP,GK,22-263,0.0,0,,,,,,,,,Espanyol
+Squad Total,,,25.8,14.0,154,1260.0,14.0,11.0,1.0,37.0,0.0,11.7,8.5,Espanyol
+Opponent Total,,,27.5,14.0,154,1260.0,27.0,22.0,2.0,27.0,0.0,25.7,19.3,Espanyol
+Giorgi Mamardashvili,ge GEO,GK,24-068,13.0,13,1170.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valencia
+Cristhian Mosquera,es ESP,DF,20-162,13.0,13,1170.0,0.0,0.0,0.0,3.0,0.0,0.2,0.0,Valencia
+César Tárrega,es ESP,DF,22-284,11.0,11,990.0,2.0,0.0,0.0,3.0,0.0,1.2,0.0,Valencia
+Luis Rioja,es ESP,MF,31-051,12.0,11,949.0,2.0,0.0,1.0,3.0,0.0,1.3,0.5,Valencia
+Diego López,es ESP,"MF,FW",22-207,13.0,11,936.0,2.0,1.0,0.0,1.0,0.0,0.9,1.4,Valencia
+José Luis García Vayá,es ESP,MF,26-117,11.0,10,871.0,1.0,2.0,1.0,5.0,1.0,1.0,1.3,Valencia
+Hugo Duro,es ESP,FW,25-026,11.0,10,866.0,4.0,1.0,0.0,2.0,0.0,2.2,0.6,Valencia
+Thierry Correia,pt POR,DF,25-272,11.0,9,768.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,Valencia
+Javier Guerra,es ESP,"MF,FW",21-340,12.0,8,679.0,0.0,1.0,0.0,1.0,0.0,0.5,0.6,Valencia
+Jesus Vazquez,es ESP,DF,21-339,8.0,7,559.0,0.0,0.0,0.0,2.0,0.0,0.1,0.2,Valencia
+Dimitri Foulquier,fr FRA,DF,31-258,13.0,6,664.0,0.0,0.0,0.0,2.0,0.0,0.2,0.1,Valencia
+Enzo Barrenechea,ar ARG,MF,23-198,9.0,6,499.0,1.0,0.0,0.0,3.0,0.0,0.7,0.1,Valencia
+Domingos André Ribeiro Almeida,pt POR,"FW,MF",24-190,11.0,5,470.0,0.0,0.0,0.0,1.0,0.0,0.2,0.3,Valencia
+Yarek Gasiorowski,es ESP,DF,19-329,6.0,5,459.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,Valencia
+Dani Gómez,es ESP,FW,26-129,11.0,4,426.0,1.0,0.0,0.0,0.0,0.0,1.3,0.0,Valencia
+Hugo Guillamón,es ESP,MF,24-310,8.0,4,330.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Valencia
+José Luis Gayà,es ESP,DF,29-195,4.0,3,279.0,0.0,1.0,0.0,1.0,0.0,0.0,0.6,Valencia
+Rafa Mir,es ESP,"MF,FW",27-171,4.0,3,239.0,0.0,1.0,0.0,1.0,0.0,0.2,0.4,Valencia
+Sergi Canós,es ESP,MF,27-308,7.0,2,184.0,0.0,0.0,0.0,1.0,0.0,0.4,0.1,Valencia
+Maximiliano Caufriez,be BEL,DF,27-294,1.0,1,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valencia
+Rodrigo Abajas,es ESP,DF,21-208,1.0,1,65.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Valencia
+Germán Valera,es ESP,"MF,FW",22-265,6.0,0,78.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Valencia
+Martín Tejón,es ESP,"MF,DF",20-238,4.0,0,49.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Valencia
+Francisco Perez,es ESP,MF,22-088,3.0,0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valencia
+David Otorbi,es ESP,MF,17-051,1.0,0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valencia
+Alberto Marí,es ESP,FW,23-148,1.0,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valencia
+Iker Córdoba,es ESP,DF,19-025,0.0,0,,,,,,,,,Valencia
+Stole Dimitrievski,mk MKD,GK,30-347,0.0,0,,,,,,,,,Valencia
+Jaume Doménech,es ESP,GK,34-031,0.0,0,,,,,,,,,Valencia
+Raúl Jiménez,es ESP,GK,18-294,0.0,0,,,,,,,,,Valencia
+Warren Madrigal,cr CRC,MF,20-135,0.0,0,,,,,,,,,Valencia
+Cenk Özkacar,tr TUR,DF,24-061,0.0,0,,,,,,,,,Valencia
+Squad Total,,,24.7,13.0,143,1170.0,13.0,7.0,2.0,33.0,1.0,10.8,6.8,Valencia
+Opponent Total,,,27.3,13.0,143,1170.0,20.0,15.0,2.0,35.0,1.0,19.9,14.3,Valencia
+Karl Jakob Hein,ee EST,GK,22-237,15.0,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valladolid
+Luis Pérez,es ESP,DF,29-306,15.0,15,1310.0,0.0,0.0,0.0,2.0,0.0,0.1,1.1,Valladolid
+Lucas Oliveira Rosa,br BRA,DF,24-247,14.0,14,1260.0,0.0,0.0,0.0,5.0,0.0,0.3,0.9,Valladolid
+Raúl Moro,es ESP,"FW,MF",22-001,15.0,11,1074.0,3.0,1.0,0.0,1.0,0.0,1.6,3.2,Valladolid
+Eray Cömert,ch SUI,"DF,MF",26-306,13.0,11,889.0,0.0,0.0,0.0,4.0,0.0,0.5,0.0,Valladolid
+Kike Pérez,es ESP,MF,27-296,14.0,10,834.0,1.0,0.0,0.0,4.0,0.0,0.9,0.7,Valladolid
+Selim Amallah,ma MAR,"MF,FW",28-021,11.0,10,675.0,2.0,1.0,1.0,1.0,0.0,2.6,0.2,Valladolid
+Javi Sánchez,es ESP,DF,27-267,9.0,9,702.0,0.0,0.0,0.0,2.0,0.0,0.1,0.2,Valladolid
+Mamadou Sylla,sn SEN,FW,30-261,12.0,8,664.0,2.0,1.0,2.0,1.0,0.0,3.0,0.7,Valladolid
+Stanko Jurić,hr CRO,MF,28-112,13.0,7,786.0,0.0,0.0,0.0,4.0,0.0,0.7,0.3,Valladolid
+David Torres,es ESP,DF,21-276,9.0,7,697.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,Valladolid
+Mario Martín,es ESP,MF,20-276,12.0,7,642.0,0.0,1.0,0.0,3.0,1.0,0.3,0.3,Valladolid
+Abdulai Juma Bah,sl SLE,DF,18-239,7.0,6,544.0,0.0,0.0,0.0,1.0,0.0,0.3,0.0,Valladolid
+Anuar,ma MAR,"FW,MF",29-326,7.0,5,425.0,1.0,0.0,0.0,3.0,0.0,0.6,0.2,Valladolid
+Amath,sn SEN,"FW,DF",28-143,6.0,5,293.0,0.0,1.0,0.0,0.0,0.0,0.4,0.2,Valladolid
+Darwin Machís,ve VEN,"FW,MF",31-303,5.0,5,268.0,0.0,0.0,0.0,0.0,0.0,0.6,0.1,Valladolid
+Juanmi Latasa,es ESP,FW,23-258,11.0,4,494.0,0.0,0.0,0.0,4.0,0.0,1.0,0.2,Valladolid
+Iván Sánchez,es ESP,"MF,FW",32-074,14.0,3,542.0,1.0,1.0,0.0,3.0,0.0,0.3,1.3,Valladolid
+Marcos André,br BRA,FW,28-047,8.0,3,297.0,0.0,0.0,0.0,2.0,0.0,0.3,0.0,Valladolid
+Enzo Boyomo,cm CMR,DF,23-060,3.0,3,270.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Valladolid
+Cenk Özkacar,tr TUR,DF,24-061,4.0,3,196.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Valladolid
+Víctor Meseguer,es ESP,MF,25-180,12.0,2,381.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,Valladolid
+Raúl Chasco,es ESP,DF,21-084,2.0,1,130.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valladolid
+Chuky san jose,es ESP,"MF,FW",20-221,4.0,1,89.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Valladolid
+Mario Maroto,es ESP,MF,21-008,1.0,0,19.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,Valladolid
+Kenedy,br BRA,"MF,FW",28-302,2.0,0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Valladolid
+Álvaro Aceves,es ESP,GK,21-133,0.0,0,,,,,,,,,Valladolid
+Stipe Biuk,hr CRO,MF,21-346,0.0,0,,,,,,,,,Valladolid
+André Ferreira,pt POR,GK,28-191,0.0,0,,,,,,,,,Valladolid
+Jorge Gonzalez,es ESP,DF,19-265,0.0,0,,,,,,,,,Valladolid
+César de la Hoz,es ESP,MF,32-251,0.0,0,,,,,,,,,Valladolid
+Arnau Rafús,es ESP,GK,21-223,0.0,0,,,,,,,,,Valladolid
+Squad Total,,,25.9,15.0,165,1350.0,10.0,7.0,3.0,45.0,1.0,14.0,9.8,Valladolid
+Opponent Total,,,27.4,15.0,165,1350.0,31.0,21.0,1.0,43.0,2.0,27.2,20.3,Valladolid
