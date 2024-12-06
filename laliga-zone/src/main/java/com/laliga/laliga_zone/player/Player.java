@@ -39,12 +39,12 @@ public class Player {
 
     private Double xa;
 
-    private Double team;
+    private String team;
 
     public Player() {
     }
 
-    public Player(String name, String nation, String position, Integer age, Double team, Integer mp, Integer starts, Double min, Double gls, Double ast, Double pgls, Double crdy, Double crdr, Double xg, Double xa) {
+    public Player(String name, String nation, String position, Integer age, String team, Integer mp, Integer starts, Double min, Double gls, Double ast, Double pgls, Double crdy, Double crdr, Double xg, Double xa) {
         this.name = name;
         this.nation = nation;
         this.position = position;
@@ -178,11 +178,11 @@ public class Player {
         this.xa = xa;
     }
 
-    public Double getTeam() {
+    public String getTeam() {
         return team;
     }
 
-    public void setTeam(Double team) {
+    public void setTeam(String team) {
         this.team = team;
     }
 }
